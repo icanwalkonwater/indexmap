@@ -79,7 +79,7 @@
 
 extern crate alloc;
 
-#[cfg(has_std)]
+// #[cfg(has_std)]
 #[macro_use]
 extern crate std;
 
